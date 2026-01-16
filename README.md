@@ -1,6 +1,11 @@
 
+
 <div align="center">
     <img src="dock/images/logo_hackathon.png" width="100" height="100" />
+</div>
+
+<div align="center">
+    <img src="dock/images/Knight-s-move.gif" width="300" height="300" />
 </div>
 
 ![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
