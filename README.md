@@ -2,9 +2,14 @@
 <div align="center">
     <img src="dock/images/logo_hackathon.png" width="100" height="100" />
 </div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
 <div align="center">
     # 🏆 Хакатон "Tower Defence Challenge" 🏰
 </div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
