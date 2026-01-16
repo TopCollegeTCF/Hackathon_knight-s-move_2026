@@ -1,9 +1,15 @@
-<div align="center">
-    # 🏆 Хакатон "Tower Defence Challenge" 🏰
-</div>
+
 <div align="center">
     <img src="dock/images/logo_hackathon.png" width="100" height="100" />
 </div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<div align="center">
+    # 🏆 Хакатон "Tower Defence Challenge" 🏰
+</div>
+
+![divider](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 <div align="center">
 
@@ -13,7 +19,7 @@
 ![Prize](https://img.shields.io/badge/Приз-100_топ_коинов-gold)
 ![Tech Stack](https://img.shields.io/badge/Технологии-HTML/CSS/JS-important)
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" height="150" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" height="300" />
 
 </div>
 
@@ -358,3 +364,6 @@ tower-defence-game/
 ## 🙏 Благодарности
 [Благодарности, использованные ресурсы]
 ```
+<div align="center">
+    <img src="dock/images/hack_log.gif" />
+</div>
