@@ -5,9 +5,6 @@
 <div align="center">
     # 🏆 Хакатон "Tower Defence Challenge" 🏰
 </div>
-<div align="center">
-    <img src="dock/images/hack_log.gif" />
-</div>
 
 <div align="center">
 
@@ -362,3 +359,6 @@ tower-defence-game/
 ## 🙏 Благодарности
 [Благодарности, использованные ресурсы]
 ```
+<div align="center">
+    <img src="dock/images/hack_log.gif" />
+</div>
