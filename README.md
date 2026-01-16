@@ -1,8 +1,12 @@
+
+<div align="center">
+    <img src="dock/images/logo_hackathon.png" width="100" height="100" />
+</div>
 <div align="center">
     # 🏆 Хакатон "Tower Defence Challenge" 🏰
 </div>
 <div align="center">
-    <img src="dock/images/logo_hackathon.png" width="100" height="100" />
+    <img src="dock/images/hack_log.gif" />
 </div>
 
 <div align="center">
@@ -13,7 +17,7 @@
 ![Prize](https://img.shields.io/badge/Приз-100_топ_коинов-gold)
 ![Tech Stack](https://img.shields.io/badge/Технологии-HTML/CSS/JS-important)
 
-<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" height="150" />
+<img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="400" height="300" />
 
 </div>
 
