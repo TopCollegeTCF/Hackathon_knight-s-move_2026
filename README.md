@@ -1,4 +1,4 @@
-# Hakaton_knight-s-move_2026
+# Hackathon_knight-s-move_2026
 repository of the hackathon project related to creating team projects for Academy Top students
 
 # 🏆 Хакатон "Tower Defence Challenge" 🏰
@@ -13,7 +13,7 @@ repository of the hackathon project related to creating team projects for Academ
 
 <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="200" height="150" />
 
-**[📍 Логотип Хакатона](hackathon-logo.png)**
+**[📍 Логотип Хакатона](https://github.com/TopCollegeTCF/Hackathon_knight-s-move_2026/blob/main/dock/images/logo_hackathon.png)**
 
 </div>
 
